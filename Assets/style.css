@@ -1,9 +1,10 @@
-/*this is a placeholder for future work/*
+/*this is a placeholder for future work*/
 
-margin {
-    auto, 0;
+html {
+margin: auto;
 }
 body {
-border: 1px, black;
-
+    flex-wrap: inherit;
+border: 1px, solid, black;
+color: teal;
 }
