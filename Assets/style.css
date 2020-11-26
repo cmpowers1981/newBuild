@@ -1,10 +1,17 @@
 /*this is a placeholder for future work*/
 
 html {
-margin: auto;
+    height: 100%;
+    width: 100%;
+margin-top: 25px;
+margin-left: 25px;
+margin-bottom: 25px;
+margin-top: 25px;
+border: lawngreen;
+border-style: 1px, solid;
+border-radius: 2rem;
 }
+
 body {
-    flex-wrap: inherit;
-border: 1px, solid, black;
 color: teal;
 }
