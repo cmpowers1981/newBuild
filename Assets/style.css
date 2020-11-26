@@ -1,4 +1,9 @@
 /*this is a placeholder for future work/*
+
 margin {
-    auto;
+    auto, 0;
+}
+body {
+border: 1px, black;
+
 }
